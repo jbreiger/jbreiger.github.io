@@ -2,9 +2,9 @@
 
 ---
 
-### Category Name 1 
+### Coding Project
 
-[Project 1 Title](/sample_page)
+[Project 1 Title](https://app.zepl.com/viewer/notebooks/bm90ZTovL2picmVpZ2VyQHlhaG9vLmNvbS8zYWI0MjExMmI4Yjc0MWM3YWIyNjA3NGY5OGEwOTdiYi9ub3RlLmpzb24)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
