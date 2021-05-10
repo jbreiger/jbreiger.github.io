@@ -16,7 +16,20 @@
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
+### Visualization Projects
 
+[Covid-19 Impact on Seattle Airbnb](https://public.tableau.com/profile/josh.breiger#!/vizhome/562AirbnbProjectFinal_16185051577450/DashboardDraft)
+<img src="images/airbnb.png?raw=true"/>
+
+---
+[Project 2 Title](/pdf/sample_presentation.pdf)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+---
+[Project 3 Title](http://example.com/)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+---
 ### Category Name 2
 
 - [Project 1 Title](http://example.com/)
