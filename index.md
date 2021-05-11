@@ -12,7 +12,7 @@
 <img src="images/capstone.png?raw=true"/>
 
 ---
-[Silver and Reddit's Wallstreetbets](Silver and Reddit's Wallstreetbets (1).pdf)
+[Silver and Reddit's Wallstreetbets](/pdf/Silver and Reddit's Wallstreetbets (1).pdf)
 <img src="images/reddit.png?raw=true"/>
 
 ---
@@ -30,7 +30,7 @@
 
 ### Other Projects
 
-- [Twitter & NBA Stats](Twitter & NBA stats.pdf)
+- [Twitter & NBA Stats](/pdf/Twitter & NBA stats.pdf)
 - [Project 2 Title](http://example.com/)
 - [Project 3 Title](http://example.com/)
 - [Project 4 Title](http://example.com/)
