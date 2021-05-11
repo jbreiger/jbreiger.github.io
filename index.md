@@ -12,7 +12,7 @@
 <img src="images/capstone.png?raw=true"/>
 
 ---
-[Silver and Reddit's Wallstreetbets](http://example.com/)
+[Silver and Reddit's Wallstreetbets](Silver and Reddit's Wallstreetbets (1).html)
 <img src="images/reddit.png?raw=true"/>
 
 ---
