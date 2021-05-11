@@ -8,8 +8,8 @@
 <img src="images/tax_analyst_picture.png?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Seattle Public Utilities Capstone Project](https://sites.google.com/view/data-driven-waste-management/home?authuser=0)
+<img src="images/spu.png?raw=true"/>
 
 ---
 [Project 3 Title](http://example.com/)
@@ -26,8 +26,8 @@
 <img src="images/spd.png?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Reddit](http://example.com/)
+<img src="reddit.png?raw=true"/>
 
 ---
 ### Category Name 2
