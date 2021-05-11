@@ -9,7 +9,7 @@
 
 ---
 [Seattle Public Utilities Capstone Project](https://sites.google.com/view/data-driven-waste-management/home?authuser=0)
-<img src="images/spu.png?raw=true"/>
+<img src="images/capstone.png?raw=true"/>
 
 ---
 [Project 3 Title](http://example.com/)
