@@ -2,7 +2,7 @@
 
 ---
 
-### Coding Project
+### Data Analysis Projects
 
 [Tax Anomaly Detection](https://app.zepl.com/viewer/notebooks/bm90ZTovL2picmVpZ2VyQHlhaG9vLmNvbS8zYWI0MjExMmI4Yjc0MWM3YWIyNjA3NGY5OGEwOTdiYi9ub3RlLmpzb24)
 <img src="images/tax_analyst_picture.png?raw=true"/>
@@ -12,8 +12,8 @@
 <img src="images/capstone.png?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Reddit](http://example.com/)
+<img src="images/reddit.png?raw=true"/>
 
 ---
 ### Visualization Projects
@@ -25,9 +25,6 @@
 [Seattle Police Department and Covid](https://public.tableau.com/profile/josh.breiger#!/vizhome/CovidandSeattlePoliceData/FinalStory)
 <img src="images/spd.png?raw=true"/>
 
----
-[Reddit](http://example.com/)
-<img src="images/reddit.png?raw=true"/>
 
 ---
 ### Category Name 2
