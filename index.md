@@ -31,8 +31,8 @@
 ### Other Projects
 
 - [Twitter & NBA Stats](/pdf/Twitter & NBA stats.pdf)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
+- [Branded Franchise Analysis](/pdf/Branded Franchise Analysis.pdf)
+- [Smart Care Through Digital Transformation](/pdf/Smart Care Through Digital Transformation)
 - [Project 4 Title](http://example.com/)
 - [Project 5 Title](http://example.com/)
 
