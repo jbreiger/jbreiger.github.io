@@ -24,7 +24,7 @@
 ---
 [Seattle Police Department and Covid](https://public.tableau.com/profile/josh.breiger#!/vizhome/CovidandSeattlePoliceData/FinalStory)
 <img src="images/spd.png?raw=true"/>
---
+---
 
 ### Category Name 2
 
