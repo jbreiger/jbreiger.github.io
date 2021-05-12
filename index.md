@@ -32,7 +32,7 @@
 
 - [Twitter & NBA Stats](/pdf/Twitter & NBA stats.pdf)
 - [Branded Franchise Analysis](/pdf/Branded Franchise Analysis.pdf)
-- [Smart Care Through Digital Transformation](/pdf/Smart Care Through Digital Transformation)
+- [Smart Care Through Digital Transformation](/pdf/Smart Care Through Digital Transformation.pdf)
 
 ---
 
