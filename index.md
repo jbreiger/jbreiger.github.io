@@ -12,7 +12,7 @@
 <img src="images/capstone.png?raw=true"/>
 
 ---
-[Silver and Reddit's Wallstreetbets](/pdf/Silver and Reddit's Wallstreetbets (1).pdf)
+[Silver and Reddit's Wallstreetbets](/pdf/Silver and Reddit's Wallstreetbets.pdf)
 <img src="images/reddit.png?raw=true"/>
 
 ---
@@ -33,8 +33,6 @@
 - [Twitter & NBA Stats](/pdf/Twitter & NBA stats.pdf)
 - [Branded Franchise Analysis](/pdf/Branded Franchise Analysis.pdf)
 - [Smart Care Through Digital Transformation](/pdf/Smart Care Through Digital Transformation)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
 
 ---
 
