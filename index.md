@@ -22,11 +22,11 @@
 ---
 ### Visualization Projects
 
-[Covid-19 Impact on Seattle Airbnb](https://public.tableau.com/profile/josh.breiger#!/vizhome/562AirbnbProjectFinal_16185051577450/DashboardDraft)
+[COVID-19 Impact on Seattle Airbnb](https://public.tableau.com/profile/josh.breiger#!/vizhome/562AirbnbProjectFinal_16185051577450/DashboardDraft)
 <img src="images/airbnb.png?raw=true"/>
 
 ---
-[Seattle Police Department and Covid](https://public.tableau.com/profile/josh.breiger#!/vizhome/CovidandSeattlePoliceData/FinalStory)
+[Seattle Police Department and COVID](https://public.tableau.com/profile/josh.breiger#!/vizhome/CovidandSeattlePoliceData/FinalStory)
 <img src="images/spd.png?raw=true"/>
 
 ---
