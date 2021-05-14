@@ -16,7 +16,10 @@
 <img src="images/reddit.png?raw=true"/>
 
 ---
+[Text Normalization Via Machine Learning](/pdf/Text_Normalization_Final_Report.pdf)
+<img src="images/text_normalization.png?raw=true"/>
 
+---
 ### Visualization Projects
 
 [Covid-19 Impact on Seattle Airbnb](https://public.tableau.com/profile/josh.breiger#!/vizhome/562AirbnbProjectFinal_16185051577450/DashboardDraft)
@@ -33,7 +36,7 @@
 - [Twitter & NBA Stats](/pdf/Twitter & NBA stats.pdf)
 - [Branded Franchise Analysis](/pdf/Branded Franchise Analysis.pdf)
 - [Smart Care Through Digital Transformation](/pdf/Smart Care Through Digital Transformation.pdf)
-
+- [Exploring Dermatology & Hate Crime Datasets](/pdf/derm_hatecrime.pdf)
 ---
 
 
