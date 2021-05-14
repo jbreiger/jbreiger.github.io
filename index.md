@@ -37,6 +37,7 @@
 - [Branded Franchise Analysis](/pdf/Branded Franchise Analysis.pdf)
 - [Smart Care Through Digital Transformation](/pdf/Smart Care Through Digital Transformation.pdf)
 - [Exploring Dermatology & Hate Crime Datasets](/pdf/derm_hatecrime.pdf)
+
 ---
 
 
