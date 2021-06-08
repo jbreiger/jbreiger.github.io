@@ -9,7 +9,7 @@
 
 ---
 [News Headlines & Dow Jones Performance](/pdf/News_Headlines_And_Stock_Performance - Jupyter Notebook.pdf)
-<img src="images/DowJones2.png?raw=true"/>
+<img src="images/DowJones3.png?raw=true"/>
 
 
 ---
