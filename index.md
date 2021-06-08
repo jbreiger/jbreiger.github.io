@@ -8,6 +8,11 @@
 <img src="images/tax_analyst_picture.png?raw=true"/>
 
 ---
+[News Headlines & Dow Jones Performance](/pdf/News_Headlines_And_Stock_Performance - Jupyter Notebook.pdf)
+<img src="images/DowJones.jpg?raw=true"/>
+
+
+---
 [Seattle Public Utilities Capstone Project](https://sites.google.com/view/data-driven-waste-management/home?authuser=0)
 <img src="images/capstone.png?raw=true"/>
 
