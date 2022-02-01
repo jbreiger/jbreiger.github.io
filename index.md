@@ -32,7 +32,7 @@
 
 ---
 [Chargebacks What If Analysis](/pdf/What If Analysis.pdf)
-<img src="images/WhatIfAnalysis.png?raw=true"/>
+<img src="images/What.png?raw=true"/>
 ---
 [Seattle Police Department and COVID](https://public.tableau.com/profile/josh.breiger#!/vizhome/CovidandSeattlePoliceData/FinalStory)
 <img src="images/spd.png?raw=true"/>
