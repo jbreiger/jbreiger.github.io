@@ -13,7 +13,7 @@
 
 
 ---
-[Seattle Public Utilities Capstone Project](https://sites.google.com/view/data-driven-waste-management/home?authuser=0)
+[Seattle Public Utilities Capstone Project](/pdf/SPU Final Schematic.pdf)
 <img src="images/capstone.png?raw=true"/>
 
 ---
