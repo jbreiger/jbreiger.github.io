@@ -35,6 +35,7 @@
 <img src="images/WhatIf.png?raw=true"/>
 
 ---
+
 [Seattle Police Department and COVID](https://public.tableau.com/profile/josh.breiger#!/vizhome/CovidandSeattlePoliceData/FinalStory)
 <img src="images/spd.png?raw=true"/>
 
